@@ -1,0 +1,5 @@
+{
+  "name": "GooberLang IDE",
+  "description": "A next-gen AI-powered IDE for the GooberLang neural network programming language. Features a smart editor, real-time visualization, and an AI-simulated runtime environment.",
+  "requestFramePermissions": []
+}
